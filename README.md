@@ -1,3 +1,3 @@
 # myImage
 
-![Alt text](/simple.jpg)
+![hello](/simple.jpg)
